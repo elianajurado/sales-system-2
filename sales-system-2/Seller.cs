@@ -1,10 +1,9 @@
 ﻿using System;
-namespace sales_system_2
+namespace sales_system
 {
     public class Seller
     {
-        public Seller()
-        {
-        }
+        public string name;
+        public int age;
     }
 }
